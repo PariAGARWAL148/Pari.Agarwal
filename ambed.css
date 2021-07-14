@@ -1,0 +1,8 @@
+body{
+background:linear-gradient( blueviolet 0%,mediumvioletred 100%,lightpink 0%,white 100%);
+text-align:center;
+}
+img{
+height:300px;
+width:300px;
+}
